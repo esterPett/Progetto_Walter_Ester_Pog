@@ -1,20 +1,30 @@
-﻿  Progetto_Walter_Ester_Pog.cpp
-C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\Camera_Class.h(116,47): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
-C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\Camera_Class.h(117,23): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
-C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\Camera_Class.h(118,47): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
-C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\View_Class.h(163,139): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
-C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\View_Class.h(164,139): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
-C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\View_Class.h(164,108): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
-C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\View_Class.h(164,75): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
-C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\View_Class.h(166,138): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
-C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\View_Class.h(166,107): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
-C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\View_Class.h(166,75): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
-C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\View_Class.h(195,142): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
-C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\View_Class.h(196,142): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
-C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\View_Class.h(196,111): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
-C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\View_Class.h(196,78): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
-C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\View_Class.h(198,141): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
-C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\View_Class.h(198,110): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
-C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\View_Class.h(198,78): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+﻿  glad.c
+  Mat4F.cpp
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\Mat4F.cpp(5,16): warning C4244: 'argomento': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\Mat4F.cpp(11,16): warning C4244: 'argomento': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\Mat4F.cpp(64,20): warning C4244: 'return': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\Mat4F.cpp(311,10): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+  Progetto_Walter_Ester_Pog.cpp
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\Camera_Class.h(116,47): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\Camera_Class.h(117,23): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\Camera_Class.h(118,47): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\View_Class.h(163,139): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\View_Class.h(164,139): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\View_Class.h(164,108): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\View_Class.h(164,75): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\View_Class.h(166,138): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\View_Class.h(166,107): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\View_Class.h(166,75): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\View_Class.h(195,142): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\View_Class.h(196,142): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\View_Class.h(196,111): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\View_Class.h(196,78): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\View_Class.h(198,141): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\View_Class.h(198,110): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\View_Class.h(198,78): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+  Vec2F.cpp
+  Vec3F.cpp
+  Vec4F.cpp
+  Generazione del codice in corso...
 LINK : warning LNK4098: la libreria predefinita 'MSVCRT' è in conflitto con l'utilizzo di altre librerie; usare /NODEFAULTLIB:libreria
-  Progetto_Walter_Ester_Pog.vcxproj -> C:\Users\Ester\Documents\GitHub\Progetto_Walter_Ester_Pog\Progetto_Walter_Ester_Pog\x64\Debug\Progetto_Walter_Ester_Pog.exe
+  Progetto_Walter_Ester_Pog.vcxproj -> C:\Users\Ester\Documents\GitHub\MotoreRenderingOpenGL\Progetto_Walter_Ester_Pog\x64\Debug\Progetto_Walter_Ester_Pog.exe
